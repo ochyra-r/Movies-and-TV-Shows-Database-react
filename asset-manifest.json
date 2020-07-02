@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Movies-and-TV-Shows-Database-react/static/css/main.b4edf451.chunk.css",
+    "main.js": "/Movies-and-TV-Shows-Database-react/static/js/main.e5937577.chunk.js",
+    "main.js.map": "/Movies-and-TV-Shows-Database-react/static/js/main.e5937577.chunk.js.map",
+    "runtime-main.js": "/Movies-and-TV-Shows-Database-react/static/js/runtime-main.f784054e.js",
+    "runtime-main.js.map": "/Movies-and-TV-Shows-Database-react/static/js/runtime-main.f784054e.js.map",
+    "static/js/2.3303bf04.chunk.js": "/Movies-and-TV-Shows-Database-react/static/js/2.3303bf04.chunk.js",
+    "static/js/2.3303bf04.chunk.js.map": "/Movies-and-TV-Shows-Database-react/static/js/2.3303bf04.chunk.js.map",
+    "index.html": "/Movies-and-TV-Shows-Database-react/index.html",
+    "precache-manifest.5004e843bef860c9022d68d10ef8e4b6.js": "/Movies-and-TV-Shows-Database-react/precache-manifest.5004e843bef860c9022d68d10ef8e4b6.js",
+    "service-worker.js": "/Movies-and-TV-Shows-Database-react/service-worker.js",
+    "static/css/main.b4edf451.chunk.css.map": "/Movies-and-TV-Shows-Database-react/static/css/main.b4edf451.chunk.css.map",
+    "static/js/2.3303bf04.chunk.js.LICENSE.txt": "/Movies-and-TV-Shows-Database-react/static/js/2.3303bf04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f784054e.js",
+    "static/js/2.3303bf04.chunk.js",
+    "static/css/main.b4edf451.chunk.css",
+    "static/js/main.e5937577.chunk.js"
+  ]
+}
